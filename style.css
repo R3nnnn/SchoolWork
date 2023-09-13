@@ -1,0 +1,56 @@
+div {
+    background-color: rgba(127, 208, 255, 0.718);
+    color: blueviolet;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+tbody {
+    background-color: rgb(247, 213, 154);
+}
+
+.header_info{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+.header_info{
+    font-size: 1rem;
+
+}
+
+
+.Mawo{
+    align-content: center;
+    background-color: azure;
+}
+
+.destination {
+    background-color: rgb(67, 106, 66);
+    color: azure;
+    border-color: aliceblue;
+    border-width: 1cm;
+    border-style: dotted;
+}
+
+.destination {
+    background-color: rgb(187, 130, 76);
+    color: rgb(66, 45, 24);
+    border-color: rgb(191, 216, 237);
+    border-width: 1cm;
+    border-style: dashed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    ;
+    
+}
+
+/**.destination tbody {
+    background-color: rgb(154, 103, 103);
+}
+
+/**.destination td {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
